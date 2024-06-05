@@ -1,0 +1,22 @@
+name: CoinMobs
+version: 2.0-ALPHA-1.2
+description: Mobs kills and earn money.
+main: cm.joel.CoinMobs
+author: CinturonCris
+api-version: 1.16
+
+depend:
+  - Vault
+  - Essentials
+
+commands:
+  coinmobs:
+    description: reload config.
+    usage: /coinmobs [reload]
+permissions:
+  mobcoins.reload:
+    description: Reload Config.
+    default: op
+  mobcoins.head.drop:
+    description: Allows players to get heads from mobs
+    default: op

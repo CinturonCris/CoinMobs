@@ -1,0 +1,248 @@
+#These numbers represent the amount of money, 1 would logically be $1 and so on.
+mobs:
+  PLAYER: 13
+  ZOMBIE: 1.20
+  CAMEL: 5.25
+  AXOLOTL: 4
+  CREEPER: 5.3
+  SKELETON: 4
+  SPIDER: 3
+  CAVE_SPIDER: 4
+  BLAZE: 6.15
+  COW: 2
+  PIG: 2
+  SHEEP: 2
+  CHICKEN: 1
+  BAT: 1.60
+  WITCH: 7.10
+  GUARDIAN: 6
+  ELDER_GUARDIAN: 10
+  SHULKER: 8
+  PILLAGER: 5
+  EVOKER: 6
+  VEX: 5.10
+  WITHER_SKELETON: 6
+  STRAY: 4
+  HUSK: 3
+  DROWNED: 4
+  ILLUSIONER: 8
+  ENDERMAN: 7
+  WITHER: 15
+  ENDER_DRAGON: 20
+  TURTLE: 7
+  STRIDER: 8.15
+  PIGLIN: 4
+  PIGLIN_BRUTE: 5
+  ZOGLIN: 4
+  HOGLIN: 3
+  GHAST: 5
+  MAGMA_CUBE: 4
+  SLIME: 3
+  RAVAGER: 7
+  VILLAGER: 2
+  IRON_GOLEM: 8
+  OCELOT: 2.10
+  WOLF: 2.15
+  PARROT: 2
+  POLAR_BEAR: 4
+  FOX: 3
+  PANDA: 4
+  BEE: 2.90
+  PHANTOM: 4
+  DOLPHIN: 2
+  COD: 1
+  SALMON: 1
+  PUFFERFISH: 1.50
+  TROPICAL_FISH: 1
+  LLAMA: 1.25
+  ALLAY: 1
+  MULE: 1
+  MUSHROOM_COW: 4.50
+  GOAT: 2
+  FROG: 1
+
+hologram-enabled: true
+hologram-color: "&a"
+
+PlayerHeadDrop:
+  enabled: true
+  PLAYER:
+    probability: 100
+
+dropheads:
+  enabled: true
+  ZOMBIE:
+    probability: 100
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzgzYWFhZWUyMjg2OGNhZmRhYTFmNmY0YTBlNTZiMGZkYjY0Y2QwYWVhYWJkNmU4MzgxOGMzMTJlYmU2NjQzNyJ9fX0="
+  CAMEL:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY0MmM5ZjcxMTMxYjVkZjRhOGMyMWM4YzZmMTA2ODRmMjJhYmFmYjhjZDY4YTFkNTVhYzRiZjI2M2E1M2EzMSJ9fX0="
+  AXOLOTL:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTIxNDllYjhhNDg5ZDhiMDM1OGQ5ODk1NjBjZDI3MDRiMjU2NGFjYjkxY2JmYjZkMDE0NmYzNWNjMDRhM2ZmIn19fQ=="
+  CREEPER:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzlkZDgwM2QxZDg0MDRhOWEyNzZlNWU5OGEwY2UzY2RmMzAzZjgyNjU4MTI5YzljODAzZTcyNTYzODk1MmE0MyJ9fX0="
+  SKELETON:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNhNDQ1NzQ5MjUxYmRkODk4ZmI4M2Y2Njc4NDRlMzhhMWRmZjc5YTE1MjlmNzlhNDI0NDdhMDU5OTMxMGVhNCJ9fX0="
+  SPIDER:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVlMjQ4ZGEyZTEwOGYwOTgxM2E2Yjg0OGEwZmNlZjExMTMwMDk3ODE4MGVkYTQxZDNkMWE3YThlNGRiYTNjMyJ9fX0="
+  CAVE_SPIDER:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWNjYzRhMzJkNDVkNzRlOGIxNGVmMWZmZDU1Y2Q1ZjM4MWEwNmQ0OTk5MDgxZDUyZWFlYTEyZTEzMjkzZTIwOSJ9fX0="
+  BLAZE:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ=="
+  COW:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ViNjE3Yzg5ZmVhODczNjdiZWI3MWJiZjE0ZDg4NjYzNmU0NTkwOGQwZDE2MTY4MzI0YzA3NjU0OTAwNGI4MCJ9fX0="
+  PIG:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmVlODUxNDg5MmYzZDc4YTMyZTg0NTZmY2JiOGM2MDgxZTIxYjI0NmQ4MmYzOThiZDk2OWZlYzE5ZDNjMjdiMyJ9fX0="
+  SHEEP:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkyZGYyMTZlY2QyNzYyNGFjNzcxYmFjZmJmZTAwNmUxZWQ4NGE3OWU5MjcwYmUwZjg4ZTljODc5MWQxZWNlNCJ9fX0="
+  CHICKEN:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2EzNTgyY2U0ODg5MzMzZGFkMzI5ZTRlMjQzNzJhMDNhNWRhYTJjMzQyODBjNTYyNTZhZjUyODNlZGIwNDNmOCJ9fX0="
+  BAT:
+    probability: 90
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjY4MWE3MmRhNzI2M2NhOWFlZjA2NjU0MmVjY2E3YTE4MGM0MGUzMjhjMDQ2M2ZjYjExNGNiM2I4MzA1NzU1MiJ9fX0="
+  WITCH:
+    probability: 0
+    texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U3MWE2ZWIzMDNhYjdlNmY3MGVkNTRkZjkxNDZhODBlYWRmMzk2NDE3Y2VlOTQ5NTc3M2ZmYmViZmFkODg3YyJ9fX0="
+  GUARDIAN:
+    probability: 0
+    texture: "your_guardian_texture_value_here"
+  ELDER_GUARDIAN:
+    probability: 0
+    texture: "your_elder_guardian_texture_value_here"
+  SHULKER:
+    probability: 0
+    texture: "your_shulker_texture_value_here"
+  PILLAGER:
+    probability: 0
+    texture: "your_pillager_texture_value_here"
+  EVOKER:
+    probability: 0
+    texture: "your_evoker_texture_value_here"
+  VEX:
+    probability: 0
+    texture: "your_vex_texture_value_here"
+  WITHER_SKELETON:
+    probability: 0
+    texture: "your_wither_skeleton_texture_value_here"
+  STRAY:
+    probability: 0
+    texture: "your_stray_texture_value_here"
+  HUSK:
+    probability: 0
+    texture: "your_husk_texture_value_here"
+  DROWNED:
+    probability: 0
+    texture: "your_drowned_texture_value_here"
+  ILLUSIONER:
+    probability: 0
+    texture: "your_illusioner_texture_value_here"
+  ENDERMAN:
+    probability: 0
+    texture: "your_enderman_texture_value_here"
+  WITHER:
+    probability: 0
+    texture: "your_wither_texture_value_here"
+  ENDER_DRAGON:
+    probability: 0
+    texture: "your_ender_dragon_texture_value_here"
+  TURTLE:
+    probability: 0
+    texture: "your_turtle_texture_value_here"
+  STRIDER:
+    probability: 0
+    texture: "your_strider_texture_value_here"
+  PIGLIN:
+    probability: 0
+    texture: "your_piglin_texture_value_here"
+  PIGLIN_BRUTE:
+    probability: 0
+    texture: "your_piglin_brute_texture_value_here"
+  ZOGLIN:
+    probability: 0
+    texture: "your_zoglin_texture_value_here"
+  HOGLIN:
+    probability: 0
+    texture: "your_hoglin_texture_value_here"
+  GHAST:
+    probability: 0
+    texture: "your_ghast_texture_value_here"
+  MAGMA_CUBE:
+    probability: 0
+    texture: "your_magma_cube_texture_value_here"
+  SLIME:
+    probability: 0
+    texture: "your_slime_texture_value_here"
+  RAVAGER:
+    probability: 0
+    texture: "your_ravager_texture_value_here"
+  VILLAGER:
+    probability: 0
+    texture: "your_villager_texture_value_here"
+  IRON_GOLEM:
+    probability: 0
+    texture: "your_iron_golem_texture_value_here"
+  OCELOT:
+    probability: 0
+    texture: "your_ocelot_texture_value_here"
+  WOLF:
+    probability: 0
+    texture: "your_wolf_texture_value_here"
+  PARROT:
+    probability: 0
+    texture: "your_parrot_texture_value_here"
+  POLAR_BEAR:
+    probability: 0
+    texture: "your_polar_bear_texture_value_here"
+  FOX:
+    probability: 0
+    texture: "your_fox_texture_value_here"
+  PANDA:
+    probability: 0
+    texture: "your_panda_texture_value_here"
+  BEE:
+    probability: 0
+    texture: "your_bee_texture_value_here"
+  PHANTOM:
+    probability: 0
+    texture: "your_phantom_texture_value_here"
+  DOLPHIN:
+    probability: 0
+    texture: "your_dolphin_texture_value_here"
+  COD:
+    probability: 0
+    texture: "your_cod_texture_value_here"
+  SALMON:
+    probability: 0
+    texture: "your_salmon_texture_value_here"
+  FROG:
+    probability: 0
+    texture: "your_frog_texture_value_here"
+  GOAT:
+    probability: 0
+    texture: "your_goat_texture_value_here"
+  MOOSHROOM:
+    probability: 0
+    texture: "your_mooshroom_texture_value_here"
+  MULE:
+    probability: 0
+    texture: "your_mule_texture_value_here"
+  ALLAY:
+    probability: 0
+    texture: "your_allay_texture_value_here"
+  LLAMA:
+    probability: 0
+    texture: "your_llama_texture_value_here"
+
+excludedWorlds:
+  - world_nether
+  - world_the_end

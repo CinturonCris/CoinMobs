@@ -1,0 +1,5 @@
+mobKillMessage: "&7[&b&lCM&7] &aYou get &6$%money% &afor killing &d%mob%&a!"
+reloadMessage: "&7[&b&lCM&7] &aReloading config.yml and data..."
+noPermissionMessage: "&7[&b&lCM&7] &4You do not have permissions to run this command."
+MobconversionError: "&7[&b&lCM&7] &cError converting money value in mob %mob%"
+NoMoneyConfigDefined: "&7[&b&lCM&7] &cThere is no money setup defined for the entity: &b%mob%"
