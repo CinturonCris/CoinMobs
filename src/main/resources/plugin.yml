@@ -1,7 +1,7 @@
 name: CoinMobs
-version: 2.0-ALPHA-1.2
+version: v3.0
 description: Mobs kills and earn money.
-main: cm.joel.CoinMobs
+main: cm.joel.main.CoinMobs
 author: CinturonCris
 api-version: 1.16
 
